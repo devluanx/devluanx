@@ -14,19 +14,19 @@
 </div>
 
 <div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+  <a href="https://www.instagram.com/santosdev_./" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 
-  <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/luan-santos-da-silva-13abb5406?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
-  <a href="https://wa.me/SEU_NUMERO" target="_blank">
+  <a href="https://wa.me/+55 48 8426-9170" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:luan_santos-silva@estudante.sesisenai.org.br">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
