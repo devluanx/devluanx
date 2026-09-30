@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Luan Santos!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Luan%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Estudante+do+SENAI;Front-end+Developer;JavaScript+%7C+React+%7C+Vite;Transformando+ideias+em+projetos"/>
 
@@ -34,17 +34,19 @@ Sistema web desenvolvido com **HTML, CSS e JavaScript** para cadastro e gerencia
 
 Aplicação de gerenciamento de tarefas desenvolvida com **JavaScript e LocalStorage**.
 
+### Nexus
 
+Sistema de **biblioteca digital** desenvolvido para praticar JavaScript, manipulação do DOM e armazenamento de dados.
 
 ## Atualmente estudando
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,react,mysql,git" />
+<img src="https://skillicons.dev/icons?i=mysql,react" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=700&color=94A3B8&center=true&vCenter=true&width=500&lines=Aprendendo+JavaScript;Criando+projetos+com+React;Estudando+SQL;Praticando+Git+e+GitHub"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=700&color=94A3B8&center=true&vCenter=true&width=500&lines=Aprendendo+MySQL;Criando+projetos+com+React;Aprofundando+meus+conhecimentos"/>
 
 </div>
 
@@ -53,15 +55,19 @@ Aplicação de gerenciamento de tarefas desenvolvida com **JavaScript e LocalSto
 <div align="center">
 
 <a href="https://github.com/devluanx">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
+
+   
 
 <a href="mailto:luan_santos-silva@estudante.sesisenai.org.br">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
+   
+
 <a href="https://instagram.com/santosdev._">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
 </div>
@@ -70,16 +76,10 @@ Aplicação de gerenciamento de tarefas desenvolvida com **JavaScript e LocalSto
 
 <div align="center">
 
-<a href="https://github.com/devluanx">Meu perfil no GitHub</a>
-  •   <a href="mailto:luan_santos-silva@estudante.sesisenai.org.br">Meu email</a>
-  •   <a href="https://instagram.com/santosdev._">Meu Instagram</a>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=devluanx&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-### Desenvolvendo • Aprendendo • Evoluindo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer&animation=fadeIn"/>
 
 </div>
