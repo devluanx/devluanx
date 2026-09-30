@@ -20,7 +20,7 @@ Atualmente estou desenvolvendo projetos para colocar meus conhecimentos em prát
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,mysql,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,mysql,git,github,vscode=5" />
 
 </div>
 
@@ -31,7 +31,7 @@ Atualmente estou desenvolvendo projetos para colocar meus conhecimentos em prát
 <div align="center">
 
 <a href="https://github.com/devluanx">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devluanx&repo=Meu-Portf-lio&theme=tokyonight&hide_border=true"/>
+
 </a>
 
 </div>
@@ -49,7 +49,7 @@ Atualmente estou desenvolvendo projetos para colocar meus conhecimentos em prát
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,react,mysql,git" />
+
 
 <br><br>
 
@@ -75,7 +75,6 @@ Atualmente estou desenvolvendo projetos para colocar meus conhecimentos em prát
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devluanx&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
