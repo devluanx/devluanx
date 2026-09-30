@@ -1,34 +1,94 @@
-#  Hello world! How are you all? Eu sou Luan Santos!
+<div align="center">
 
- Estudante de **Desenvolvimento de Sistemas**
- Formação pelo **SENAI**
-🇧🇷 Brasil
+# Olá, eu sou Luan Santos!
 
-##  Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+do+SENAI;Front-end+%7C+JavaScript+%7C+React;Sempre+aprendendo+algo+novo" />
 
-Sou estudante de Desenvolvimento de Sistemas e estou sempre buscando aprender e evoluir na área de tecnologia. Atualmente, meu foco está em **desenvolvimento web e Front-end**.
+</div>
 
-##  Tecnologias
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,mysql,git,github,vscode" />
+## Sobre mim
 
-##  Projetos
+Estudante de **Desenvolvimento de Sistemas no SENAI**.
 
-*  **Meu Portfólio** — React + Vite
-*  **Feira Digital de Trocas** — JavaScript + LocalStorage
-*  **Organiza+** — Aplicação de tarefas
+Focado em **Desenvolvimento Web e Front-end**, buscando evoluir constantemente através de novos projetos e tecnologias.
 
+---
 
-##  Atualmente estudando
+## Tecnologias
 
-**JavaScript • React • SQL • Git • GitHub • Desenvolvimento Web**
+<div align="center">
 
-##  Objetivo
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,mysql,git,github,vscode&perline=5" />
 
-Continuar evoluindo como desenvolvedor, criando projetos e adquirindo experiência para construir minha carreira na área de tecnologia.
+</div>
 
-##  Contato
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/devluanx)
+## Projetos
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/)
+| Projeto                     | Tecnologias               |
+| --------------------------- | ------------------------- |
+| **Meu Portfólio**           | React + Vite              |
+| **Feira Digital de Trocas** | HTML + CSS + JavaScript   |
+| **Organiza+**               | JavaScript + LocalStorage |
+| **Nexus**                   | JavaScript + LocalStorage |
+
+---
+
+## Atualmente estudando
+
+<div align="center">
+
+`JavaScript` • `React` • `SQL` • `Git` • `GitHub` • `Desenvolvimento Web`
+
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=devluanx&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluanx&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devluanx&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://github.com/devluanx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=devluanx&color=36BCF7&style=flat-square&label=VISITAS+NO+PERFIL"/>
+
+### Desenvolvendo • Aprendendo • Evoluindo
+
+</div>
