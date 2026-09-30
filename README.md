@@ -1,5 +1,7 @@
 
-<p data-importer="text" align="left">Hello World! How are you all?</p>
+<p data-importer="text" align="left">Hello World! How are you all?
+Me chamo Luan Santos, Desenvolvedor do SENAI 
+</p>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
