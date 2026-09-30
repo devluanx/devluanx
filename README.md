@@ -1,7 +1,7 @@
 #  Hello world! How are you all? Eu sou Luan Santos!
 
-💻 Estudante de **Desenvolvimento de Sistemas**
-🎓 Formação pelo **SENAI**
+ Estudante de **Desenvolvimento de Sistemas**
+ Formação pelo **SENAI**
 🇧🇷 Brasil
 
 ##  Sobre mim
@@ -14,9 +14,9 @@ Sou estudante de Desenvolvimento de Sistemas e estou sempre buscando aprender e 
 
 ##  Projetos
 
-* 🌐 **Meu Portfólio** — React + Vite
-* 🔄 **Feira Digital de Trocas** — JavaScript + LocalStorage
-* ✅ **Organiza+** — Aplicação de tarefas
+*  **Meu Portfólio** — React + Vite
+*  **Feira Digital de Trocas** — JavaScript + LocalStorage
+*  **Organiza+** — Aplicação de tarefas
 
 
 ##  Atualmente estudando
