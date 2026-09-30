@@ -34,9 +34,7 @@ Sistema web desenvolvido com **HTML, CSS e JavaScript** para cadastro e gerencia
 
 Aplicação de gerenciamento de tarefas desenvolvida com **JavaScript e LocalStorage**.
 
-### Nexus
 
-Sistema de **biblioteca digital** desenvolvido para praticar JavaScript, manipulação do DOM e armazenamento de dados.
 
 ## Atualmente estudando
 
@@ -57,15 +55,11 @@ Sistema de **biblioteca digital** desenvolvido para praticar JavaScript, manipul
 <a href="https://github.com/devluanx">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-
-   
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:luan_santos-silva@estudante.sesisenai.org.br">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
-
-   
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/santosdev._">
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
