@@ -34,9 +34,6 @@ Sistema web desenvolvido com **HTML, CSS e JavaScript** para cadastro e gerencia
 
 Aplicação de gerenciamento de tarefas desenvolvida com **JavaScript e LocalStorage**.
 
-### Nexus
-
-Sistema de **biblioteca digital** desenvolvido para praticar JavaScript, manipulação do DOM e armazenamento de dados.
 
 ## Atualmente estudando
 
