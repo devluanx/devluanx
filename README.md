@@ -1,42 +1,34 @@
+#  Hello world! How are you all? Eu sou Luan Santos!
 
-<p data-importer="text" align="left">Hello World! How are you all?
-Me chamo Luan Santos, Desenvolvedor em formação no SENAI.
-</p>
+💻 Estudante de **Desenvolvimento de Sistemas**
+🎓 Formação pelo **SENAI**
+🇧🇷 Brasil
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
+##  Sobre mim
 
-<div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/santosdev_./" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
+Sou estudante de Desenvolvimento de Sistemas e estou sempre buscando aprender e evoluir na área de tecnologia. Atualmente, meu foco está em **desenvolvimento web e Front-end**.
 
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/luan-santos-da-silva-13abb5406?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+## 🛠️ Tecnologias
 
-  <a href="https://wa.me/+55 48 8426-9170" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,mysql,git,github,vscode" />
 
-  <a href="mailto:luan_santos-silva@estudante.sesisenai.org.br">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
+##  Projetos
 
-<div data-importer="stats" align="center">
-</div>
+* 🌐 **Meu Portfólio** — React + Vite
+* 🔄 **Feira Digital de Trocas** — JavaScript + LocalStorage
+* ✅ **Organiza+** — Aplicação de tarefas
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFF&strokeWidth=7&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined" />
-</div>
 
+##  Atualmente estudando
+
+**JavaScript • React • SQL • Git • GitHub • Desenvolvimento Web**
+
+##  Objetivo
+
+Continuar evoluindo como desenvolvedor, criando projetos e adquirindo experiência para construir minha carreira na área de tecnologia.
+
+##  Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/devluanx)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/)
