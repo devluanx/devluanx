@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Luan%20Santos&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Estudante+do+SENAI;Front-end+Developer;JavaScript+%7C+React+%7C+Vite;Transformando+ideias+em+projetos"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello+World!+How+are+you%3F;Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Estudante+do+SENAI;Front-end+Developer;JavaScript+%7C+React+%7C+Vite;Transformando+ideias+em+projetos"/>
 
 </div>
 
@@ -34,7 +34,9 @@ Sistema web desenvolvido com **HTML, CSS e JavaScript** para cadastro e gerencia
 
 Aplicação de gerenciamento de tarefas desenvolvida com **JavaScript e LocalStorage**.
 
+### Nexus
 
+Sistema de **biblioteca digital** desenvolvido para praticar JavaScript, manipulação do DOM e armazenamento de dados.
 
 ## Atualmente estudando
 
