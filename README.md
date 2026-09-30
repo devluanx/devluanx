@@ -8,7 +8,7 @@
 
 Sou estudante de Desenvolvimento de Sistemas e estou sempre buscando aprender e evoluir na área de tecnologia. Atualmente, meu foco está em **desenvolvimento web e Front-end**.
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,mysql,git,github,vscode" />
 
