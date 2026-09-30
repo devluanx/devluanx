@@ -1,6 +1,6 @@
 
 <p data-importer="text" align="left">Hello World! How are you all?
-Me chamo Luan Santos, Desenvolvedor do SENAI 
+Me chamo Luan Santos, Desenvolvedor em formação no SENAI.
 </p>
 
 <div data-importer="techs" align="left">
