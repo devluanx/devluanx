@@ -69,7 +69,7 @@ Aplicação de gerenciamento de tarefas desenvolvida com **JavaScript e LocalSto
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=devluanx&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 
 <br><br>
 
